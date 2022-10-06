@@ -8,8 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/My Room.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/QA_Office_demoScene_Level_01_Office.unity
+    guid: 48425890b1617a849b14abab954606a4
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 44fd85cfa1dd7f644b494a511249c07e,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5a2046055aec99f42b6b203d87f00825,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad4050bc0deda4e238354e959df0f1f4,
       type: 2}
